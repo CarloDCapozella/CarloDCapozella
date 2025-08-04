@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Recent master's graduate in biomedical engineering with a focus on data science and neuroscience. I wrote my thesis on the exploration-exploitation behavioral differences between humans and rats, along with modeling hippocampal place cells. I'm seeking to apply my programming and problem-solving skills to enhance patient outcomes and develop emerging biotechnology. Additionally, I am gaining more proficiency in my current programming skills and learning more languages to discover new applications and extend the limits of my creativity.</p>
+<p align="left">Recent master's graduate in biomedical engineering with a focus on data science and neuroscience. I wrote my thesis on the exploration-exploitation behavioral differences between humans and rats, along with modeling hippocampal place cells. I'm seeking a role in research or data science to apply my programming and problem-solving skills to enhance patient outcomes and develop emerging biotechnology.</p>
 
 ###
 
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
 ###
